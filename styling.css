@@ -1,0 +1,8 @@
+div {text-align: center;}
+table {margin-left: auto; margin-right: auto; background-color: darkolivegreen;}
+body {background-color: forestgreen;}
+tr {font-weight: bold;}
+th {background-color: darkkhaki;}
+td {background-color: darkkhaki; font-family: monospace; font-weight: bolder; font-size: large; color: ghostwhite;}
+p {font-style: italic;}
+button {  background-color: khaki;}
